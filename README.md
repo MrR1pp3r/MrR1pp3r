@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Bittu and I'm a software developer. I'm from INDIA <img src="https://raw.githubusercontent.com/MrR1pp3r/MrR1pp3r/main/indiaflag.gif" width="18px">, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Bittu and I'm a software developer. I'm from **INDIA** <img src="https://raw.githubusercontent.com/MrR1pp3r/MrR1pp3r/main/indiaflag.gif" width="24px">, living in Gujarat and currently working as Full Stack Developer. You can find me on [![Telegram][1.2]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
