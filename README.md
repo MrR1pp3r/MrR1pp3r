@@ -20,17 +20,12 @@ My name is Bittu and I'm a software developer. I'm from **INDIA** <img src="http
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
-A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
-- [Profiling and Analyzing Performance of Python Programs](https://bit.ly/31lKCYA)
-- [Improving Application Availability with Pod Readiness Gates](https://bit.ly/30uviIM)
-- [Exploring Google Analytics Realtime Data with Python](https://bit.ly/3E1X2mw)
+<!-- - [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
+<!-- - [Profiling and Analyzing Performance of Python Programs](https://bit.ly/31lKCYA) -->
+<!--  [Improving Application Availability with Pod Readiness Gates](https://bit.ly/30uviIM) -->
+<!--  [Exploring Google Analytics Realtime Data with Python](https://bit.ly/3E1X2mw) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
